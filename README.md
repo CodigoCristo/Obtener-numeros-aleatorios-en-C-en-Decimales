@@ -24,3 +24,8 @@ srand(time(NULL)); <br>
 De forma general es: <br>
 variable_de_resultado = limite_inferior + rand() / (RAND_MAX + 1u) / variable_del_usuario - limite_inferior) ; <br>
 
+
+
+<br> 
+
+https://www.youtube.com/embed/vEV9u6TQlmo 
